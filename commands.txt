@@ -1,0 +1,15 @@
+  2 first.py                                                                                             
+   3 python first.py                                                                                      
+   4 ls -l                                                                                                
+   5 ls -l                                                                                                
+   6 git init                                                                                             
+   7 dir -a                                                                                               
+   8 git status                                                                                           
+   9 git add first.py                                                                                     
+  10 git status                                                                                           
+  11 git commit -m "tracked"                                                                              
+  12 git status                                                                                           
+  13 rm first.py                                                                                          
+  14 git status                                                                                           
+  15 restore first.py                                                                                     
+  16 git restore first.py  
