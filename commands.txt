@@ -23,4 +23,6 @@
   24 git remote add origin https://github.com/aniketsinhamdp-ship-it/GIT-and-GITHUB-workshop.git          
   25 git remote set-url orinin                                                                            
   26 git remote set-url origin                          
-  28 git push origin master  
+
+
+ 
