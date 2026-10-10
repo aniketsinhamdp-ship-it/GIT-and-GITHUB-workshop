@@ -12,4 +12,15 @@
   13 rm first.py                                                                                          
   14 git status                                                                                           
   15 restore first.py                                                                                     
-  16 git restore first.py  
+  16 git restore first.py                                                                                  
+  17  history                                                                                             
+  18 git status                                                                                           
+  19 git add commands.txt                                                                                 
+  20 git status                                                                                           
+  21 gid commit -m "hii"                                                                                  
+  22 git commit -m "hii"                                                                                  
+  23 git status                                                                                           
+  24 git remote add origin https://github.com/aniketsinhamdp-ship-it/GIT-and-GITHUB-workshop.git          
+  25 git remote set-url orinin                                                                            
+  26 git remote set-url origin                          
+  28 git push origin master   
